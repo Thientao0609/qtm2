@@ -44,3 +44,7 @@ git commit -m "Update homepage"
 
 Demo 4: Reload
 sudo systemctl restart nginx
+
+sữa file
+cd /root/network-project/scripts
+vi deploy.sh
