@@ -24,12 +24,11 @@ Demo
 Server chạy tại IP: 192.168.189.134
 
 ---
+ 2️⃣ Chuẩn bị demo 
 
-## 2️⃣ Chuẩn bị demo (thầy rất thích phần này)
 
-👉 Khi thuyết trình, bạn làm như này:
 
-### 🔹 Demo 1: Web đang chạy
+ Demo 1: Web đang chạy
 - Mở:
 ``` id="v2m6le"
 http://192.168.189.134
