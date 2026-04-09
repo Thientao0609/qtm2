@@ -1,0 +1,2 @@
+User admin logged in with 2FA
+User test failed login attempt
